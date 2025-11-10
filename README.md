@@ -8,7 +8,7 @@
 ## 🚀 Sobre mim
 - 📍 São Paulo - SP
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- 🎓 Cursando **Sistemas da Informação**
+- 🎓 Cursando **Ciencia da Computação**
 - 📊 Focado em **Python, SQL, Power BI, Automação e APIs**
 - 📚 Estudando continuamente **Ciência de Dados** e **Machine Learning**
 - 🚀 Motivado por desafios que envolvem extração, manipulação e visualização de dados
