@@ -35,7 +35,7 @@
 
 ## 📫 Contato
 - 📧 **Email:** renanpessoal2023@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/renan-queiroz123](https://www.linkedin.com/in/renan-queiroz123)
+- 💼 **LinkedIn:** ([https://www.linkedin.com/in/renan-queiroz123](https://www.linkedin.com/in/renan-queiroz-datascience/))
 
 ---
 
